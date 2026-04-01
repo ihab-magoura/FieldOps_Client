@@ -1,1 +1,0 @@
-const magoura = 10
